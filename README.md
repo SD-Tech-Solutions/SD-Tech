@@ -2,6 +2,8 @@
 
 This is an example of using git on code server running in a docker container.
 
+This syncs code with SD Tech Github and runs using the local instance of codeserver connected to it.
+
 does this still sync?
 
 # Future Plans
